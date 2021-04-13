@@ -1,4 +1,4 @@
-Oblig X
+Oblig 3
 =======
 OsloMet brukernavn: s351878
 
